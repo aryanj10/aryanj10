@@ -45,6 +45,14 @@ Other: Azure ML (certified), Neo4j, GitHub Actions, LaTeX
 Visualization and APIs: Tableau, Power BI, Plotly, Dash, Matplotlib, Seaborn, Streamlit, Flask, FastAPI, RESTful APIs
 ```
 
+---
+
+📚 Publication
+
+Jain, Aryan, Vora, Khushi, Verma, Shrey, Churi, Prathamesh. Addressing Algorithmic Bias in Healthcare: An Experimental Analysis of Bias Detection and Mitigation Techniques (March 30, 2025).
+[Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198538) or [DOI](https://dx.doi.org/10.2139/ssrn.5198538)
+---
+
 ## 💬 A Quick Personal Note
 
 I care deeply about building meaningful, data-driven solutions — whether it’s for predicting crime trends, improving financial access, or making AI explainable. And yes, I still get a small kick every time I debug something that’s been stuck for hours.
