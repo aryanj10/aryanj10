@@ -47,10 +47,11 @@ Visualization and APIs: Tableau, Power BI, Plotly, Dash, Matplotlib, Seaborn, St
 
 ---
 
-📚 Publication
+## 📚 Publication
 
 Jain, Aryan, Vora, Khushi, Verma, Shrey, Churi, Prathamesh. Addressing Algorithmic Bias in Healthcare: An Experimental Analysis of Bias Detection and Mitigation Techniques (March 30, 2025).
 [Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198538) or [DOI](https://dx.doi.org/10.2139/ssrn.5198538)
+
 ---
 
 ## 💬 A Quick Personal Note
