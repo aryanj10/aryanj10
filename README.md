@@ -25,26 +25,32 @@ Along the way, I’ve:
 • ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines  
 
 ### Projects:  
-  - AI-powered credit scoring using cash flow data
-  - Reddit-based political influence analysis with NetworkX
-  - Insider trading detection using NLP and GNN
-  - Personal investment planner with portfolio optimization  
+  - **Comcast AI in Entertainment Challenge** : Created an end-to-end AI-generated animated movie using GenAI tools like META AI, Stable Diffusion, voice cloning, and video editing. [![Watch the video](https://img.youtube.com/vi/fCD2pDRNmc8/hqdefault.jpg)](https://youtu.be/fCD2pDRNmc8)
+  - **Triton Inference Deployment** : Built a scalable inference pipeline using NVIDIA Triton Server for deploying image classification models
+  - **Store Financial Dashboard** : Built interactive dashboards to visualize revenue, cost, and EBITDA metrics across 178 QSR stores
+  - **Philly Crime Analysis** : Analyzed historical crime data to predict patterns and visualize incidents using time-series and spatial clustering
+  - **Resume Editor + PDF Generator** : Developed a web-based tool to edit JSON resumes and render LaTeX-based professional PDFs
+  - **Reddit-based Political Influence Analysis** : Investigated ideological spread and key influencers in Reddit’s political subcommunities using network analysis
 
 ---
 
 ## 🧰 Tech Toolbox
 
 ```yaml
-Languages: Python, R, SQL, Bash, C++
-ML Tools: Scikit-learn, PyTorch, XGBoost, SHAP, LIME
+Languages: Python, R, SQL, Bash, C++, MATLAB, Javascript
+ML and AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV, SpaCy, BERT, Langchain, Time Series
 Deployment: Triton, FastAPI, Docker
-Dashboards: Streamlit, Dash, Plotly
+Cloud and DevOps: AWS (S3, RDS, EC2), Azure, Databricks, PySpark, MySQL, Docker, MLflow, CI/CD Pipelines
 Other: Azure ML (certified), Neo4j, GitHub Actions, LaTeX
+Visualization and APIs: Tableau, Power BI, Plotly, Dash, Matplotlib, Seaborn, Streamlit, Flask, FastAPI, RESTful APIs
 ```
 
 ## 💬 A Quick Personal Note
 
 I care deeply about building meaningful, data-driven solutions — whether it’s for predicting crime trends, improving financial access, or making AI explainable. And yes, I still get a small kick every time I debug something that’s been stuck for hours.
+
+Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI Engineer Associate.
+
 
 ## 📫 Let’s Connect
 
