@@ -55,4 +55,5 @@ Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI En
 ## 📫 Let’s Connect
 
 💼 [LinkedIn](https://linkedin.com/in/aryanj10)
-📬 [![Email](aj3246@drexel.edu)](aryanflory@gmail.com)
+📬 [Drexel Email](aj3246@drexel.edu)
+📬 [Personal Email](aryanflory@gmail.com)
