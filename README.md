@@ -25,7 +25,7 @@ Along the way, I’ve:
 • ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines  
 
 ### Projects:  
-  - **Comcast AI in Entertainment Challenge** : Created an end-to-end AI-generated animated movie using GenAI tools like META AI, Stable Diffusion, voice cloning, and video editing. [![Watch the video](https://img.youtube.com/vi/fCD2pDRNmc8/hqdefault.jpg)](https://youtu.be/fCD2pDRNmc8)
+  - **Comcast AI in Entertainment Challenge** : Created an end-to-end AI-generated animated movie using GenAI tools like META AI, Stable Diffusion, voice cloning, and video editing. 🎥 [Watch here] (https://youtu.be/fCD2pDRNmc8?si=88W_GiLR8DaFo56D)
   - **Triton Inference Deployment** : Built a scalable inference pipeline using NVIDIA Triton Server for deploying image classification models
   - **Store Financial Dashboard** : Built interactive dashboards to visualize revenue, cost, and EBITDA metrics across 178 QSR stores
   - **Philly Crime Analysis** : Analyzed historical crime data to predict patterns and visualize incidents using time-series and spatial clustering
