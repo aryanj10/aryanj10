@@ -23,11 +23,12 @@ Along the way, I’ve:
 • Business and Financial Analytics: P&L insights, store clustering, EBITDA drivers  
 • Explainable AI: SHAP, LIME, Grad-CAM, meta-explainers  
 • ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines  
+
 • Projects:  
-  • AI-powered credit scoring using cash flow data  
-  • Reddit-based political influence analysis with NetworkX  
-  • Insider trading detection using NLP and GNN  
-  • Personal investment planner with portfolio optimization  
+  - AI-powered credit scoring using cash flow data
+  - Reddit-based political influence analysis with NetworkX
+  - Insider trading detection using NLP and GNN
+  - Personal investment planner with portfolio optimization  
 
 ---
 
