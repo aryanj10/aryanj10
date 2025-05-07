@@ -24,7 +24,7 @@ Along the way, I’ve:
 • Explainable AI: SHAP, LIME, Grad-CAM, meta-explainers  
 • ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines  
 
-• Projects:  
+### Projects:  
   - AI-powered credit scoring using cash flow data
   - Reddit-based political influence analysis with NetworkX
   - Insider trading detection using NLP and GNN
