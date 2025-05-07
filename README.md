@@ -9,6 +9,7 @@ Welcome to my GitHub profile — a space where data meets direction and models (
 I'm currently pursuing my **Master’s in Data Science** at **Drexel University**, graduating in June 2025. With **2+ years of industry experience**, I’ve worked across data analytics, machine learning, and AI deployment. My goal is to build systems that are explainable, efficient, and impactful.
 
 Along the way, I’ve:
+
 • Automated analytics workflows that save hours of manual work  
 • Forecasted financial KPIs for over 178 QSR stores using time series models  
 • Built dashboards and tools that help teams act on data quickly  
