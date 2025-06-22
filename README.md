@@ -63,9 +63,10 @@ Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI En
 
 ## 📈 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanj10&show_icons=true&theme=default)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
 
 ## 📫 Let’s Connect
 
