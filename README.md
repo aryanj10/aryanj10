@@ -3,6 +3,7 @@
 Welcome to my GitHub profile — a space where data meets direction and models (mostly) behave.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
 
 ## 🧠 About Me
 
