@@ -3,10 +3,6 @@
 Welcome to my GitHub profile — a space where data meets direction and models (mostly) behave.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanj10&show_icons=true&theme=default)
-
-
 ## 🧠 About Me
 
 I'm currently pursuing my **Master’s in Data Science** at **Drexel University**, graduating in June 2025. With **2+ years of industry experience**, I’ve worked across data analytics, machine learning, and AI deployment. My goal is to build systems that are explainable, efficient, and impactful.
@@ -62,6 +58,13 @@ Jain, Aryan, Vora, Khushi, Verma, Shrey, Churi, Prathamesh. Addressing Algorithm
 I care deeply about building meaningful, data-driven solutions — whether it’s for predicting crime trends, improving financial access, or making AI explainable. And yes, I still get a small kick every time I debug something that’s been stuck for hours.
 
 Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI Engineer Associate.
+
+---
+
+## 📈 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanj10&show_icons=true&theme=default)
 
 
 ## 📫 Let’s Connect
