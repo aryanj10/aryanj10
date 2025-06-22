@@ -4,6 +4,8 @@ Welcome to my GitHub profile — a space where data meets direction and models (
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanj10&show_icons=true&theme=default)
+
 
 ## 🧠 About Me
 
