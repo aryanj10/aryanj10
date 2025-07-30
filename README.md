@@ -1,6 +1,7 @@
-# 👋 Hey, I'm Aryan Jain
+# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange)
 
-Welcome to my GitHub profile — a space where data meets direction and models (mostly) behave.
+
+Welcome to my GitHub — where data meets direction, automation saves time, and AI tools drive real outcomes.
 
 ---
 ## 🧠 About Me
@@ -21,15 +22,26 @@ Along the way, I’ve:
 
 • Business and Financial Analytics: P&L insights, store clustering, EBITDA drivers  
 • Explainable AI: SHAP, LIME, Grad-CAM, meta-explainers  
-• ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines  
+• ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines
+
+
+## ⚡ What Sets Me Apart
+
+- I’ve deployed real LLM-powered automation used by businesses (not just side projects)
+- I’ve optimized forecasting and reporting for 178+ stores with actual cost savings
+- I design AI tools with explainability in mind — SHAP, LIME, Twin Systems, Grad-CAM
+
 
 ### Projects:  
+  - **Payroll Automation Tool**: Parsed 1,000+ payroll PDFs into JSON using Gemini LLM and auto-uploaded via Playwright, saving $20K+ in labor  
   - **Comcast AI in Entertainment Challenge** : Created an end-to-end AI-generated animated movie using GenAI tools like META AI, Stable Diffusion, voice cloning, and video editing. 🎥 [Watch here](https://youtu.be/fCD2pDRNmc8?si=88W_GiLR8DaFo56D)
   - **Triton Inference Deployment** : Built a scalable inference pipeline using NVIDIA Triton Server for deploying image classification models
   - **Store Financial Dashboard** : Built interactive dashboards to visualize revenue, cost, and EBITDA metrics across 178 QSR stores
   - **Philly Crime Analysis** : Analyzed historical crime data to predict patterns and visualize incidents using time-series and spatial clustering
   - **Resume Editor + PDF Generator** : Developed a web-based tool to edit JSON resumes and render LaTeX-based professional PDFs
   - **Reddit-based Political Influence Analysis** : Investigated ideological spread and key influencers in Reddit’s political subcommunities using network analysis
+
+🧪 More projects in progress — feel free to [explore my repos](https://github.com/aryanj10?tab=repositories) or reach out if you'd like to collaborate.
 
 ---
 
@@ -65,8 +77,14 @@ Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI En
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
 
+### 📜 Certifications
+![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue)
+![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen)
+
+![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aryanj10&theme=github)
+
 ## 📫 Let’s Connect
 
 💼 [LinkedIn](https://linkedin.com/in/aryanj10)
-📬 [Drexel Email](aj3246@drexel.edu)
-📬 [Personal Email](aryanflory@gmail.com)
+📬 aj3246@drexel.edu
+📬 aryanflory@gmail.com
