@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange) ![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue)
-![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen)
+# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange) ![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue) ![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen)
+
 
 
 Welcome to my GitHub — where data meets direction, automation saves time, and AI tools drive real outcomes.
