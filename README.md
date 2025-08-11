@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange) ![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue) ![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen)
+# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange) ![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue) ![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen) ![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
 
 
 
@@ -74,10 +74,7 @@ Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI En
 
 ---
 
-## 📈 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
-![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanj10&theme=github)
 
 ## 📫 Let’s Connect
 
