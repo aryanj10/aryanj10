@@ -1,85 +1,343 @@
-# 👋 Hey, I'm Aryan Jain ![Aryan's Banner](https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange) ![Azure DS](https://img.shields.io/badge/Azure-Data%20Scientist-blue) ![Azure AI](https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen) ![Profile Views](https://komarev.com/ghpvc/?username=aryanj10&color=blue)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=180&section=header&text=Aryan%20Jain&fontSize=70&fontAlignY=40&desc=AI%20Engineer%20|%20Document%20AI%20%26%20Automation%20|%20LLM%20Systems&descAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Document+AI+%26+Payroll+Automation;Agentic+AI+%26+Browser+Automation;RAG+Systems+%26+Retrieval+Infra;Geospatial+%26+Risk+Intelligence;Fast,+Production-grade+ML+Deployment" alt="Typing SVG" />
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=aryanj10&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
+  </p>
+</div>
+
+<h2 align="center">Building systems that remove manual work • LLMs, RAG, Agents • Open to collaboration</h2>
+
+## 💫 About Me
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="60%" valign="top">
+        <p align="left">
+          I build AI systems that turn messy docs and repetitive workflows into clean data and automated actions. From payroll parsing at scale to RAG pipelines and inference servers, I ship end-to-end solutions that save time, cut costs, and actually get used.
+        </p>
+        <ul align="left">
+          <div align="left"> <h3>🎯 What I Do</h3> <ul>
+          <li>🧠 <b>Document AI</b> for PDFs/RTFs/Excels (payroll, statements, reports)</li>
+          <li>🤖 <b>Agentic automation</b> with Browser/Playwright + LLMs</li>
+          <li>🔎 <b>RAG systems</b>, vector search, re-ranking, and evaluation</li>
+          <li>🚀 <b>ML deployment</b> with Triton, FastAPI, Docker, GitHub Actions</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🏆 Impact Highlights
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Savings" width="65" />
+      <div style="background-color: #22c55e; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">$20K+</span>
+      </div>
+      <h3>Labor Saved</h3>
+      <p>End-to-end payroll document automation used by real clients</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Docs" width="65" />
+      <div style="background-color: #3b82f6; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">1,000+</span>
+      </div>
+      <h3>Docs Parsed</h3>
+      <p>Robust parsing of PDFs/RTFs → schema-validated JSON</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Factory.png" alt="Stores" width="65" />
+      <div style="background-color: #f97316; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">178</span>
+      </div>
+      <h3>Stores Analyzed</h3>
+      <p>P&amp;L analytics, EBITDA drivers, and forecasting dashboards</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Deploy" width="65" />
+      <div style="background-color: #d946ef; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">Prod</span>
+      </div>
+      <h3>Deployments</h3>
+      <p>Triton + FastAPI inference services with CI/CD</p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 
+## 🌐 Connect With Me
+<div align="center">
+  <a href="mailto:aryanflory@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:aryanflory+jobs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Jobs%20Email-EE6C4D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aryanj10/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aryanj10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-Welcome to my GitHub — where data meets direction, automation saves time, and AI tools drive real outcomes.
+## 🧠 My Tech Stack
 
----
-## 🧠 About Me
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-1BB0CE?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-I'm currently pursuing my **Master’s in Data Science** at **Drexel University**, graduating in June 2025. With **2+ years of industry experience**, I’ve worked across data analytics, machine learning, and AI deployment. My goal is to build systems that are explainable, efficient, and impactful.
+### 🤖 AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-AC5EE3?style=flat)
+![RAG](https://img.shields.io/badge/RAG-7531FF?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-111111?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=flat)
 
-Along the way, I’ve:
+### 🛠 Infra, DevOps & Cloud
+![Triton](https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-• Automated analytics workflows that save hours of manual work  
-• Forecasted financial KPIs for over 178 QSR stores using time series models  
-• Built dashboards and tools that help teams act on data quickly  
-• Applied SHAP and LIME to make complex models more transparent  
-• Deployed ML models with NVIDIA Triton for real-time inference  
+### 🧠 Learning & Exploring
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat)
+![Retrieval Evaluation](https://img.shields.io/badge/Retrieval_Eval-4E5EE4?style=flat)
+![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-2F855A?style=flat)
+![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs-7B68EE?style=flat)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
-## 🔧 What I Work On
+## 🎯 Featured Projects
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/Payroll-LLM-Extractor">
+        <img src="https://img.shields.io/badge/📄_Payroll%20LLM%20Extractor-DocAI%20%2B%20Playwright-4CAF50?style=for-the-badge&labelColor=0d1117" alt="Payroll LLM Extractor"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="70px" alt="Payroll"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/Gemini-FF9900?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>Parsed <b>1,000+ payroll PDFs/RTFs</b> → structured JSON</li>
+        <li>Auto-uploads to Accountant's World; saved <b>$20K+ labor</b></li>
+        <li>Modular earnings/tax mapping + review UI</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/CW-RIS">
+        <img src="https://img.shields.io/badge/🌬️_CW--RIS-Child%20Wind%20Risk%20Intelligence-4DA6FF?style=for-the-badge&labelColor=0d1117" alt="CW-RIS"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png" width="70px" alt="Wind"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/ERA5-7952B3?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Geo%20Raster-4B32C3?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>Overlays wind hazards with child population exposure</li>
+        <li>Top-5 vulnerability zones + trend time-series</li>
+        <li>Built for UN Hackathon challenge</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/triton-inference-deployment">
+        <img src="https://img.shields.io/badge/🚀_Triton%20Inference-Prod%20Deployment%20Toolkit-22C55E?style=for-the-badge&labelColor=0d1117" alt="Triton Deployment"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="70px" alt="Gears"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>vLLM + Python backend preprocessors</li>
+        <li>Batch inference (100k images) pipeline</li>
+        <li>Metrics + GitHub Actions CI</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/browser-use-price-compare">
+        <img src="https://img.shields.io/badge/🛒_PriceCompare_Agent-Browser%20Automation%20%2B%20LLM-FF8A00?style=for-the-badge&labelColor=0d1117" alt="PriceCompare Agent"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="70px" alt="Search"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/Browser--Use-111111?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Pydantic-4B32C3?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Gemini-FF9900?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>Structured JSON outputs with schema validation</li>
+        <li>Amazon vs Walmart scraping + normalization</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/philly-crime-2006-2025">
+        <img src="https://img.shields.io/badge/📊_Philly%20Crime%20Analysis-Time%20Series%20%2B%20Spatial-4DA6FF?style=for-the-badge&labelColor=0d1117" alt="Philly Crime"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Police%20Car%20Light.png" width="70px" alt="Crime"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/Parquet-0EA5E9?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>Public dataset (2006–2025) with dashboards</li>
+        <li>Homicide nowcast + cluster analysis</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aryanj10/resume-json-to-pdf-latex">
+        <img src="https://img.shields.io/badge/📄_Resume%20Editor-JSON%20%E2%86%92%20LaTeX%20PDF-22C55E?style=for-the-badge&labelColor=0d1117" alt="Resume Editor"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="70px" alt="Memo"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li>Upload JSON + LaTeX → export polished PDF</li>
+        <li>Supports per-user storage + versions</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-• Business and Financial Analytics: P&L insights, store clustering, EBITDA drivers  
-• Explainable AI: SHAP, LIME, Grad-CAM, meta-explainers  
-• ML Deployment: Triton Inference Server, FastAPI, batch and real-time pipelines
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
+## 🔬 Current Research & Explorations
+<div align="center">
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🚀_LLM_Reasoning_Augmentation-Structured_thought_frameworks-5865F2?style=for-the-badge" alt="Reasoning"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🔍_Enterprise_RAG_Architecture-Multi--vector_search_%2B_rerankers-E91E63?style=for-the-badge" alt="RAG"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🧭_Agentic_Orchestration-Fallbacks_%2B_Tools_%2B_Monitoring-4CAF50?style=for-the-badge" alt="Agents"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🌐_Geospatial_AI-Risk_indices_%2B_zonal_stats-FF9800?style=for-the-badge" alt="Geo"/></a>
+  </p>
+</div>
 
 
-## ⚡ What Sets Me Apart
+<div align="center">
+  <h3>⚡ Development Metrics</h3>
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-40+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages_Used-10+-1f6feb?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Years_Coding-4+-f0883e?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI/ML_Projects-20+-da3633?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Contributor-7c3aed?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Profile_Views-1k%2B-56d364?style=for-the-badge&logo=eye&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- I’ve deployed real LLM-powered automation used by businesses (not just side projects)
-- I’ve optimized forecasting and reporting for 178+ stores with actual cost savings
-- I design AI tools with explainability in mind — SHAP, LIME, Twin Systems, Grad-CAM
+<br>
 
+<div align="center">
+  <h3>📝 Recent Activity Highlights</h3>
+  <p>
+    <img src="https://img.shields.io/badge/🔹_Active_in-Document_AI_%26_RAG-58a6ff?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Building-Agentic_Automation-1f6feb?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Deploying-Triton_%2B_FastAPI-f0883e?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Exploring-Geospatial_AI-da3633?style=flat-square&labelColor=0d1117"/>
+  </p>
+</div>
 
-### Projects:  
-  - **Payroll Automation Tool**: Parsed 1,000+ payroll PDFs into JSON using Gemini LLM and auto-uploaded via Playwright, saving $20K+ in labor  
-  - **Comcast AI in Entertainment Challenge** : Created an end-to-end AI-generated animated movie using GenAI tools like META AI, Stable Diffusion, voice cloning, and video editing. 🎥 [Watch here](https://youtu.be/fCD2pDRNmc8?si=88W_GiLR8DaFo56D)
-  - **Triton Inference Deployment** : Built a scalable inference pipeline using NVIDIA Triton Server for deploying image classification models
-  - **Store Financial Dashboard** : Built interactive dashboards to visualize revenue, cost, and EBITDA metrics across 178 QSR stores
-  - **Philly Crime Analysis** : Analyzed historical crime data to predict patterns and visualize incidents using time-series and spatial clustering
-  - **Resume Editor + PDF Generator** : Developed a web-based tool to edit JSON resumes and render LaTeX-based professional PDFs
-  - **Reddit-based Political Influence Analysis** : Investigated ideological spread and key influencers in Reddit’s political subcommunities using network analysis
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=aryanj10&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+</div>
 
-🧪 More projects in progress — feel free to [explore my repos](https://github.com/aryanj10?tab=repositories) or reach out if you'd like to collaborate.
+<br>
 
----
+<div align="center">
+  <h3>💡 Open to collaborating on impactful AI projects that remove repetitive work.</h3>
+</div>
 
-## 🧰 Tech Toolbox
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
+</div>
 
-```yaml
-Languages: Python, R, SQL, Bash, C++, MATLAB, Javascript
-ML and AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV, SpaCy, BERT, Langchain, Time Series
-Deployment: Triton, FastAPI, Docker
-Cloud and DevOps: AWS (S3, RDS, EC2), Azure, Databricks, PySpark, MySQL, Docker, MLflow, CI/CD Pipelines
-Other: Azure ML (certified), Neo4j, GitHub Actions, LaTeX
-Visualization and APIs: Tableau, Power BI, Plotly, Dash, Matplotlib, Seaborn, Streamlit, Flask, FastAPI, RESTful APIs
-```
+<br>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
----
-
-## 📚 Publication
-
-Jain, Aryan, Vora, Khushi, Verma, Shrey, Churi, Prathamesh. Addressing Algorithmic Bias in Healthcare: An Experimental Analysis of Bias Detection and Mitigation Techniques (March 30, 2025).
-[Available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5198538) or [DOI](https://dx.doi.org/10.2139/ssrn.5198538)
-
----
-
-## 💬 A Quick Personal Note
-
-I care deeply about building meaningful, data-driven solutions — whether it’s for predicting crime trends, improving financial access, or making AI explainable. And yes, I still get a small kick every time I debug something that’s been stuck for hours.
-
-Also, I’m a Microsoft Certified Azure Data Scientist Associate and Azure AI Engineer Associate.
-
----
-
-
-
-## 📫 Let’s Connect
-
-💼 [LinkedIn](https://linkedin.com/in/aryanj10)
-📬 aj3246@drexel.edu
-📬 aryanflory@gmail.com
+<div align="center">
+  <sub><sup>Last updated: September 2025</sup></sub>
+</div>
