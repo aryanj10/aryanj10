@@ -160,7 +160,7 @@
       <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/aryanj10/CW-RIS">
+      <a href="https://github.com/aryanj10/UN-Hackathon-Child-Wind-Risk-Intelligence-System">
         <img src="https://img.shields.io/badge/🌬️_CW--RIS-Child%20Wind%20Risk%20Intelligence-4DA6FF?style=for-the-badge&labelColor=0d1117" alt="CW-RIS"/>
       </a>
       <br><br>
@@ -180,7 +180,7 @@
       <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/aryanj10/triton-inference-deployment">
+      <a href="https://github.com/aryanj10/Triton-Implementation">
         <img src="https://img.shields.io/badge/🚀_Triton%20Inference-Prod%20Deployment%20Toolkit-22C55E?style=for-the-badge&labelColor=0d1117" alt="Triton Deployment"/>
       </a>
       <br><br>
@@ -202,7 +202,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/aryanj10/browser-use-price-compare">
+      <a href="https://github.com/aryanj10/Browser-Use-Price-Comp-Bot">
         <img src="https://img.shields.io/badge/🛒_PriceCompare_Agent-Browser%20Automation%20%2B%20LLM-FF8A00?style=for-the-badge&labelColor=0d1117" alt="PriceCompare Agent"/>
       </a>
       <br><br>
@@ -221,7 +221,7 @@
       <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/aryanj10/philly-crime-2006-2025">
+      <a href="https://github.com/aryanj10/Philadelphia-Crime-Analysis">
         <img src="https://img.shields.io/badge/📊_Philly%20Crime%20Analysis-Time%20Series%20%2B%20Spatial-4DA6FF?style=for-the-badge&labelColor=0d1117" alt="Philly Crime"/>
       </a>
       <br><br>
@@ -239,7 +239,7 @@
       <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=0d1117"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/aryanj10/resume-json-to-pdf-latex">
+      <a href="https://github.com/aryanj10/resume-editor-generate">
         <img src="https://img.shields.io/badge/📄_Resume%20Editor-JSON%20%E2%86%92%20LaTeX%20PDF-22C55E?style=for-the-badge&labelColor=0d1117" alt="Resume Editor"/>
       </a>
       <br><br>
