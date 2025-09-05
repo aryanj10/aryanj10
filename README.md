@@ -54,7 +54,7 @@
       <p>Robust parsing of PDFs/RTFs → schema-validated JSON</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Factory.png" alt="Stores" width="65" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Stores" width="65" />
       <div style="background-color: #f97316; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
         <span style="color: white; font-weight: bold;">178</span>
       </div>
@@ -225,7 +225,7 @@
         <img src="https://img.shields.io/badge/📊_Philly%20Crime%20Analysis-Time%20Series%20%2B%20Spatial-4DA6FF?style=for-the-badge&labelColor=0d1117" alt="Philly Crime"/>
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Police%20Car%20Light.png" width="70px" alt="Crime"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Police%20Officer.png" width="70px" alt="Crime"/>
       <br><br>
       <div>
         <img src="https://img.shields.io/badge/Parquet-0EA5E9?style=flat-square&labelColor=0d1117"/>
