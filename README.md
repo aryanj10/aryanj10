@@ -4,9 +4,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Document+AI+%26+Payroll+Automation;Agentic+AI+%26+Browser+Automation;RAG+Systems+%26+Retrieval+Infra;Geospatial+%26+Risk+Intelligence;Fast,+Production-grade+ML+Deployment" alt="Typing SVG" />
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=aryanj10&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
-  </p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-%F0%9F%9A%80%20Built%20for%20Impact-orange" alt="Aryan's Banner" />
+  <img src="https://img.shields.io/badge/Azure-Data%20Scientist-blue" alt="Azure DS" />
+  <img src="https://img.shields.io/badge/Azure-AI%20Engineer-brightgreen" alt="Azure AI" />
+  <img src="https://komarev.com/ghpvc/?username=aryanj10&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
+</p>
 </div>
 
 <h2 align="center">Building systems that remove manual work • LLMs, RAG, Agents • Open to collaboration</h2>
