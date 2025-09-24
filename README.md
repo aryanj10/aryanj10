@@ -43,7 +43,7 @@
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Savings" width="65" />
       <div style="background-color: #22c55e; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
-        <span style="color: white; font-weight: bold;">$20K+</span>
+        <h3 style="color: white; font-weight: bold;">$20K+</h3>
       </div>
       <h3>Labor Saved</h3>
       <p>End-to-end payroll document automation used by real clients</p>
@@ -51,7 +51,7 @@
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Docs" width="65" />
       <div style="background-color: #3b82f6; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
-        <span style="color: white; font-weight: bold;">1,000+</span>
+        <h3 style="color: white; font-weight: bold;">1,000+</h3>
       </div>
       <h3>Docs Parsed</h3>
       <p>Robust parsing of PDFs/RTFs → schema-validated JSON</p>
@@ -59,15 +59,15 @@
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Stores" width="65" />
       <div style="background-color: #f97316; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
-        <span style="color: white; font-weight: bold;">178</span>
+        <h3 style="color: white; font-weight: bold;">25M+</h3>
       </div>
-      <h3>Stores Analyzed</h3>
+      <h3>Rows Analyzed</h3>
       <p>P&amp;L analytics, EBITDA drivers, and forecasting dashboards</p>
     </td>
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Deploy" width="65" />
       <div style="background-color: #d946ef; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
-        <span style="color: white; font-weight: bold;">Prod</span>
+        <h3 style="color: white; font-weight: bold;">Prod</h3>
       </div>
       <h3>Deployments</h3>
       <p>Triton + FastAPI inference services with CI/CD</p>
